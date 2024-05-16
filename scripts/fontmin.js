@@ -7,7 +7,7 @@ const tree = require("../tree.json");
 async function main() {
   const txt = fs.readFileSync("./txt/words.txt", "utf8");
   const words = txt.split("");
-  const names = get(tree, "[0].contents[0].contents[0].contents").map(
+  const names = get(tree, "[0].contents[0].contents").map(
     (item) => item.name
   );
   for (const name of names) {
