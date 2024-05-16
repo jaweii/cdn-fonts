@@ -2,11 +2,7 @@
   {"type":"directory","name":"./fonts/","contents":[
     {"type":"directory","name":"ch","contents":[
       {"type":"file","name":"OPPOSans.ttf"},
-      {"type":"directory","name":"OPPOSans_ttf","contents":[
-      ]},
       {"type":"file","name":"Silver.ttf"},
-      {"type":"directory","name":"Silver_ttf","contents":[
-      ]},
       {"type":"file","name":"粉圆.ttf"},
       {"type":"file","name":"佛系体.ttf"},
       {"type":"file","name":"像素体.ttf"},
@@ -34,8 +30,6 @@
       {"type":"file","name":"资源圆体.ttf"},
       {"type":"file","name":"锐字真言.ttf"},
       {"type":"file","name":"站酷小薇LOGO体.otf"},
-      {"type":"directory","name":"一点明体_ttf","contents":[
-      ]},
       {"type":"file","name":"胖胖猪肉体.otf"},
       {"type":"file","name":"仓耳小丸子.ttf"},
       {"type":"file","name":"仓耳舒圆体.ttf"},
@@ -79,5 +73,5 @@
       {"type":"file","name":"庞门正道标题体3.0.ttf"}
     ]}
   ]},
-  {"type":"report","directories":4,"files":70}
+  {"type":"report","directories":1,"files":70}
 ]
