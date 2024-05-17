@@ -24,6 +24,10 @@
       {"type":"file","name":"酷方体.ttf"},
       {"type":"directory","name":"佛系体_ttf","contents":[
       ]},
+      {"type":"directory","name":"像素体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"夏行楷_ttf","contents":[
+      ]},
       {"type":"file","name":"方正楷体.TTF"},
       {"type":"file","name":"思源宋体.otf"},
       {"type":"file","name":"思源黑体.otf"},
@@ -81,5 +85,5 @@
       {"type":"file","name":"庞门正道标题体3.0.ttf"}
     ]}
   ]},
-  {"type":"report","directories":5,"files":70}
+  {"type":"report","directories":7,"files":70}
 ]
