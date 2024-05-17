@@ -2,7 +2,11 @@
   {"type":"directory","name":"./fonts/","contents":[
     {"type":"directory","name":"ch","contents":[
       {"type":"file","name":"OPPOSans.ttf"},
+      {"type":"directory","name":"OPPOSans_ttf","contents":[
+      ]},
       {"type":"file","name":"Silver.ttf"},
+      {"type":"directory","name":"Silver_ttf","contents":[
+      ]},
       {"type":"file","name":"粉圆.ttf"},
       {"type":"file","name":"佛系体.ttf"},
       {"type":"file","name":"像素体.ttf"},
@@ -73,5 +77,5 @@
       {"type":"file","name":"庞门正道标题体3.0.ttf"}
     ]}
   ]},
-  {"type":"report","directories":1,"files":70}
+  {"type":"report","directories":3,"files":70}
 ]
