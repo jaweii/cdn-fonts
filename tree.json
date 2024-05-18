@@ -38,6 +38,14 @@
       ]},
       {"type":"directory","name":"点阵黑_ttf","contents":[
       ]},
+      {"type":"directory","name":"秋鸿楷_ttf","contents":[
+      ]},
+      {"type":"directory","name":"糖圆体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"贤二体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"酷方体_ttf","contents":[
+      ]},
       {"type":"file","name":"方正楷体.TTF"},
       {"type":"file","name":"思源宋体.otf"},
       {"type":"file","name":"思源黑体.otf"},
@@ -52,6 +60,28 @@
       {"type":"file","name":"资源圆体.ttf"},
       {"type":"file","name":"锐字真言.ttf"},
       {"type":"file","name":"站酷小薇LOGO体.otf"},
+      {"type":"directory","name":"方正楷体_TTF","contents":[
+      ]},
+      {"type":"directory","name":"一点明体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"仓耳与墨_ttf","contents":[
+      ]},
+      {"type":"directory","name":"仓耳非白_ttf","contents":[
+      ]},
+      {"type":"directory","name":"思源宋体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"悠然小楷_ttf","contents":[
+      ]},
+      {"type":"directory","name":"朦胧黑体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"江城圆体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"江西拙楷_ttf","contents":[
+      ]},
+      {"type":"directory","name":"资源圆体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"锐字真言_ttf","contents":[
+      ]},
       {"type":"file","name":"胖胖猪肉体.otf"},
       {"type":"file","name":"仓耳小丸子.ttf"},
       {"type":"file","name":"仓耳舒圆体.ttf"},
@@ -76,6 +106,24 @@
       {"type":"file","name":"装甲明朝体.ttf"},
       {"type":"file","name":"阿朱泡泡体.ttf"},
       {"type":"file","name":"站酷快乐体2016.ttf"},
+      {"type":"directory","name":"仓耳小丸子_ttf","contents":[
+      ]},
+      {"type":"directory","name":"仓耳舒圆体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"优设好身体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"优设标题黑_ttf","contents":[
+      ]},
+      {"type":"directory","name":"传奇特战体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"寒蝉手拙体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"峰广明锐体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"思源真黑体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"拾陆字濑户_ttf","contents":[
+      ]},
       {"type":"file","name":"胡晓波男神体.otf"},
       {"type":"file","name":"胡晓波真帅体.otf"},
       {"type":"file","name":"胡晓波骚包体.otf"},
@@ -95,5 +143,5 @@
       {"type":"file","name":"庞门正道标题体3.0.ttf"}
     ]}
   ]},
-  {"type":"report","directories":12,"files":70}
+  {"type":"report","directories":36,"files":70}
 ]
