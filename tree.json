@@ -53,13 +53,19 @@
       {"type":"file","name":"一点明体.ttf"},
       {"type":"file","name":"仓耳与墨.ttf"},
       {"type":"file","name":"仓耳非白.ttf"},
+      {"type":"file","name":"思源宋体.ttf"},
+      {"type":"file","name":"思源黑体.ttf"},
       {"type":"file","name":"悠然小楷.ttf"},
       {"type":"file","name":"朦胧黑体.ttf"},
+      {"type":"file","name":"未来荧黑.ttf"},
       {"type":"file","name":"江城圆体.ttf"},
       {"type":"file","name":"江西拙楷.ttf"},
       {"type":"file","name":"资源圆体.ttf"},
       {"type":"file","name":"锐字真言.ttf"},
       {"type":"file","name":"站酷小薇LOGO体.otf"},
+      {"type":"file","name":"站酷小薇LOGO体.ttf"},
+      {"type":"directory","name":"站酷小薇LOGO体_ttf","contents":[
+      ]},
       {"type":"directory","name":"方正楷体_TTF","contents":[
       ]},
       {"type":"directory","name":"一点明体_ttf","contents":[
@@ -70,9 +76,13 @@
       ]},
       {"type":"directory","name":"思源宋体_ttf","contents":[
       ]},
+      {"type":"directory","name":"思源黑体_ttf","contents":[
+      ]},
       {"type":"directory","name":"悠然小楷_ttf","contents":[
       ]},
       {"type":"directory","name":"朦胧黑体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"未来荧黑_ttf","contents":[
       ]},
       {"type":"directory","name":"江城圆体_ttf","contents":[
       ]},
@@ -103,6 +113,7 @@
       {"type":"file","name":"站酷文艺体.ttf"},
       {"type":"file","name":"站酷酷黑体.ttf"},
       {"type":"file","name":"站酷高端黑.ttf"},
+      {"type":"file","name":"胖胖猪肉体.ttf"},
       {"type":"file","name":"装甲明朝体.ttf"},
       {"type":"file","name":"阿朱泡泡体.ttf"},
       {"type":"file","name":"站酷快乐体2016.ttf"},
@@ -148,6 +159,8 @@
       ]},
       {"type":"directory","name":"站酷高端黑_ttf","contents":[
       ]},
+      {"type":"directory","name":"胖胖猪肉体_ttf","contents":[
+      ]},
       {"type":"directory","name":"装甲明朝体_ttf","contents":[
       ]},
       {"type":"directory","name":"阿朱泡泡体_ttf","contents":[
@@ -159,6 +172,9 @@
       {"type":"file","name":"杨任东竹石体.ttf"},
       {"type":"file","name":"正风毛笔字体.ttf"},
       {"type":"file","name":"猫猫朋友体改.ttf"},
+      {"type":"file","name":"胡晓波男神体.ttf"},
+      {"type":"file","name":"胡晓波真帅体.ttf"},
+      {"type":"file","name":"胡晓波骚包体.ttf"},
       {"type":"file","name":"鸿雷板书简体.ttf"},
       {"type":"file","name":"黄令东齐伋体.ttf"},
       {"type":"directory","name":"卓健橄榄简体_ttf","contents":[
@@ -169,12 +185,19 @@
       ]},
       {"type":"directory","name":"猫猫朋友体改_ttf","contents":[
       ]},
+      {"type":"directory","name":"胡晓波男神体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"胡晓波真帅体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"胡晓波骚包体_ttf","contents":[
+      ]},
       {"type":"directory","name":"鸿雷板书简体_ttf","contents":[
       ]},
       {"type":"directory","name":"黄令东齐伋体_ttf","contents":[
       ]},
       {"type":"file","name":"庞门正道轻松体.otf"},
       {"type":"file","name":"庞门正道粗书体.ttf"},
+      {"type":"file","name":"庞门正道轻松体.ttf"},
       {"type":"file","name":"沐瑶软笔手写体.ttf"},
       {"type":"file","name":"沐瑶随心手写体.ttf"},
       {"type":"file","name":"站酷仓耳渔阳体.ttf"},
@@ -184,6 +207,8 @@
       {"type":"directory","name":"庞门正道标题体3_0_ttf","contents":[
       ]},
       {"type":"directory","name":"庞门正道粗书体_ttf","contents":[
+      ]},
+      {"type":"directory","name":"庞门正道轻松体_ttf","contents":[
       ]},
       {"type":"directory","name":"沐瑶软笔手写体_ttf","contents":[
       ]},
@@ -197,5 +222,5 @@
       ]}
     ]}
   ]},
-  {"type":"report","directories":63,"files":70}
+  {"type":"report","directories":71,"files":79}
 ]
