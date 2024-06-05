@@ -79,7 +79,9 @@ export function getFontFamily({
 }
 
 <!-- 页面使用 -->
-<div style={{ fontFamily: getFontFamily(font: 'Arial.ttf', lang: 'ch', text: '字体'})}}>
-  字体
+<div style={{ fontFamily: getFontFamily(font: '像素体.ttf', lang: 'ch', text: '像素体'})}}>
+  像素体
 </div>
+
+<div class="text-ellipsis line-clamp-1" style="font-family: &quot;像素体_U+975e&quot;, &quot;像素体_U+6b63&quot;, &quot;像素体_U+5e38&quot;, &quot;像素体_U+5c65&quot;, &quot;像素体_U+884c&quot;, &quot;像素体_U+50cf&quot;, &quot;像素体_U+7d20&quot;, &quot;像素体_U+4f53&quot;">像素体</div>
 ```
