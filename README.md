@@ -1,8 +1,14 @@
 # 商业可用字体 + jsdelivr CDN + 按字加载
 
-示例：
+可用字体列表建fonts文件夹
+
+完整字体应用示例：
 
 https://gcore.jsdelivr.net/gh/jaweii/cdn-fonts@v1.1.0/fonts/ch/像素体.ttf
+
+----
+
+按字加载示例：
 
 ```
 /** 按需加载字体 **/
